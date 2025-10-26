@@ -8,7 +8,7 @@
             "name": "Launch Chrome",
             "request": "launch",
             "type": "chrome",
-            "url": "file:///C:/Users/brend/OneDrive/%C3%81rea%20de%20Trabalho/cyber-verts/site.html",
+            "url": "file:///C:/Users/brend/OneDrive/%C3%81rea%20de%20Trabalho/cyber-verts/index.html",
             "webRoot": "${workspaceFolder}"
         },
 
